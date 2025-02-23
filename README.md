@@ -16,5 +16,5 @@ Neste desafio, uma aplicação foi desenvolvida de modo que permita aos usuário
 
 <h3>Captura de tela:</h3>
 
-<img src="challenge-amigo-secreto_pt/assets/Captura de tela.jpg" alt="Minha Logo">
+<img src="/assets/Captura de tela.jpg" alt="Minha Logo">
 
