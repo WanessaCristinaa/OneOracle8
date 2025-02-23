@@ -13,6 +13,8 @@ Neste desafio, uma aplicação foi desenvolvida de modo que permita aos usuário
 * <strong>Visualizar a lista:</strong> Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 * <b>Sorteio aleatório:</b> Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
+<h3>Deploy:</h3>
+https://wanessacristinaa.github.io/OneOracle8/
 
 <h3>Captura de tela:</h3>
 
