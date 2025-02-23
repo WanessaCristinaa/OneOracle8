@@ -16,9 +16,17 @@ function adicionarAmigo() {
   }
 
   amigos.push(nome);
-  input.value = ""; // Limpa o campo de entrada
+  input.value = ""; 
   atualizarLista();
 }
+
+const input = document.getElementById("amigo");
+input.addEventListener("keydown", function (event) {
+  if (event.key === "Enter") {
+    adicionarAmigo(); 
+  }
+});
+
 
 function atualizarLista() {
   const lista = document.getElementById("listaAmigos");
